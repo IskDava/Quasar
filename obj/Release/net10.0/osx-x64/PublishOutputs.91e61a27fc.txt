@@ -1,0 +1,2 @@
+/home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/bin/Release/net10.0/osx-x64/publish/CSQuasar.pdb
+/home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/bin/Release/net10.0/osx-x64/publish/CSQuasar
