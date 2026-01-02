@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSQuasar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90fec542a07e1d731fd5a0e384325a9c0dd40c42")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSQuasar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSQuasar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

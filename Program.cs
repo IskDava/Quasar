@@ -1,4 +1,6 @@
-﻿using System;
+﻿#pragma warning disable
+
+using System;
 using System.Text.RegularExpressions;
 using Token = System.Collections.Generic.List<string?>;
 using TokenList = System.Collections.Generic.List<System.Collections.Generic.List<string?>>;
@@ -31,6 +33,24 @@ class Quasar
 
     static void Main() // Starting point
     {
+        QTypes.String s = new("Hello!");
+        QTypes.String e = new("llo!");
+        Console.WriteLine(s);
+        Console.WriteLine(s + " World!");
+        Console.WriteLine(s * 5);
+        Console.WriteLine(s + '!');
+        Console.WriteLine(s[0]);
+        Console.WriteLine(s.sub(1, 3));
+        Console.WriteLine(s.length);
+        Console.WriteLine(s.sub(2, 6, 2));
+        QTypes.String s1 = new("Hello!");
+        QTypes.String s2 = new("Smth");
+        Console.WriteLine(s1 == s);
+        Console.WriteLine(s > s2);
+        Console.WriteLine(s >= s1);
+        Console.WriteLine(s - '!');
+        Console.WriteLine(s - e);
+        /*
         RefreshCommands();
 
         Console.OutputEncoding = System.Text.Encoding.UTF8; // Changing encoding for UTF8
@@ -67,6 +87,6 @@ class Quasar
                         break;
                 }
             }
-        }
+        }*/
     }
 }

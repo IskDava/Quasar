@@ -16,3 +16,4 @@
 /home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/bin/Debug/net10.0/OneOf.dll
 /home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/bin/Debug/net10.0/Spectre.Console.dll
 /home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/obj/Debug/net10.0/CSQuasar.csproj.Up2Date
+/home/dava/ProgLab/C# and Unity/csquasar/CSQuasar/obj/Debug/net10.0/CSQuasar.sourcelink.json
